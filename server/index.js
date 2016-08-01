@@ -26,7 +26,6 @@ var nedb = require('nedb');
 
 app.campaignsDB = new nedb({filename: 'campaigns', autoload: true});
 app.adGroupsDB = new nedb({filename: 'adGroups', autoload: true});
-app.keywordsDB = new nedb({filename: 'keywords', autoload: true});
 
 mocks.forEach(function (route) {
     route(app);

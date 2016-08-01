@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "angular": "^1.5.7",
-    "lodash": "3.9.3",
-    "redux": "3.0.5"
+    "lodash": "^3.9.3",
+    "redux": "^3.5.1"
   }
 }
