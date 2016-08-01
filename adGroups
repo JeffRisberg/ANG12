@@ -1,0 +1,9 @@
+{"_id":"1","id":1,"campaignId":1,"name":"Flowers"}
+{"_id":"2","id":2,"campaignId":1,"name":"Holiday"}
+{"_id":"3","id":3,"campaignId":1,"name":"Showers"}
+{"_id":"4","id":4,"campaignId":2,"name":"Kids"}
+{"_id":"5","id":5,"campaignId":2,"name":"Pool"}
+{"_id":"6","id":6,"campaignId":2,"name":"Surf"}
+{"_id":"7","id":7,"campaignId":3,"name":"Leaves"}
+{"_id":"8","id":8,"campaignId":3,"name":"BackToSchool"}
+{"_id":"9","id":9,"campaignId":3,"name":"Halloween"}
